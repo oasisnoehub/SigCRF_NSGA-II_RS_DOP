@@ -1,0 +1,176 @@
+================================North Full Model review=============================
+=============================
+['History of Hypertension' 'Nephropathy' 'Retinopathy'
+ 'History of Smoking' 'Age' 'BMI' 'DBP' 'ALT' 'AST' 'ALP' 'GGT' 'UA' 'TG'
+ 'HDL-C' 'LDL-C' 'Ca' 'FT3' 'FT4' 'PINP' 'β-CTX']
+track --- feature length :  20
+track --- model :  <class 'sklearn.ensemble._forest.RandomForestClassifier'>
+track --- calibration model :  <class 'sklearn.calibration.CalibratedClassifierCV'>
+================================
+track --- mean_acc :  0.963302752293578
+track --- acc :  0.9633  calibration :  0.9358
+track ---1- mean_acc :  0.0367  calibration :  0.0642
+track --- precision:  0.9394  calibration :  0.9231
+track --- recall:  1.0  calibration :  0.9677
+track --- fscore:  0.9688  calibration :  0.9449
+track --- 1- fscore:  0.0312  calibration :  0.0551
+==============original================
+track --- auroc: 
+0.959334248455731
+track --- conf_ma : 
+[[43  4]
+ [ 0 62]]
+track --- conf_ma_scaled : 
+[[0.91489362 0.08510638]
+ [0.         1.        ]]
+==============after calibration================
+track --- auroc : 
+0.9708304735758407
+track --- conf_ma : 
+[[42  5]
+ [ 2 60]]
+track --- conf_ma_scaled : 
+[[0.89361702 0.10638298]
+ [0.03225806 0.96774194]]
+======================================
+===============================Logistic regression=============================
+=============================
+['History of Hypertension' 'Nephropathy' 'Retinopathy'
+ 'History of Smoking' 'Age' 'BMI' 'DBP' 'ALT' 'AST' 'ALP' 'GGT' 'UA' 'TG'
+ 'HDL-C' 'LDL-C' 'Ca' 'FT3' 'FT4' 'PINP' 'β-CTX']
+track --- feature length :  20
+track --- model :  <class 'sklearn.linear_model._logistic.LogisticRegression'>
+track --- calibration model :  <class 'sklearn.calibration.CalibratedClassifierCV'>
+================================
+track --- mean_acc :  0.9174311926605505
+track --- acc :  0.9174  calibration :  0.9083
+track ---1- mean_acc :  0.0826  calibration :  0.0917
+track --- precision:  0.9344  calibration :  0.9333
+track --- recall:  0.9194  calibration :  0.9032
+track --- fscore:  0.9268  calibration :  0.918
+track --- 1- fscore:  0.0732  calibration :  0.082
+==============original================
+track --- auroc: 
+0.9526424159231297
+track --- conf_ma : 
+[[43  4]
+ [ 5 57]]
+track --- conf_ma_scaled : 
+[[0.91489362 0.08510638]
+ [0.08064516 0.91935484]]
+==============after calibration================
+track --- auroc : 
+0.9698009608785174
+track --- conf_ma : 
+[[43  4]
+ [ 6 56]]
+track --- conf_ma_scaled : 
+[[0.91489362 0.08510638]
+ [0.09677419 0.90322581]]
+======================================
+===============================KNN=============================
+=============================
+['History of Hypertension' 'Nephropathy' 'Retinopathy'
+ 'History of Smoking' 'Age' 'BMI' 'DBP' 'ALT' 'AST' 'ALP' 'GGT' 'UA' 'TG'
+ 'HDL-C' 'LDL-C' 'Ca' 'FT3' 'FT4' 'PINP' 'β-CTX']
+track --- feature length :  20
+track --- model :  <class 'sklearn.neighbors._classification.KNeighborsClassifier'>
+track --- calibration model :  <class 'sklearn.calibration.CalibratedClassifierCV'>
+================================
+track --- mean_acc :  0.8899082568807339
+track --- acc :  0.8899  calibration :  0.9174
+track ---1- mean_acc :  0.1101  calibration :  0.0826
+track --- precision:  0.9167  calibration :  0.9206
+track --- recall:  0.8871  calibration :  0.9355
+track --- fscore:  0.9016  calibration :  0.928
+track --- 1- fscore:  0.0984  calibration :  0.072
+==============original================
+track --- auroc: 
+0.934111187371311
+track --- conf_ma : 
+[[42  5]
+ [ 7 55]]
+track --- conf_ma_scaled : 
+[[0.89361702 0.10638298]
+ [0.11290323 0.88709677]]
+==============after calibration================
+track --- auroc : 
+0.935483870967742
+track --- conf_ma : 
+[[42  5]
+ [ 4 58]]
+track --- conf_ma_scaled : 
+[[0.89361702 0.10638298]
+ [0.06451613 0.93548387]]
+======================================
+===============================SVM =============================
+=============================
+['History of Hypertension' 'Nephropathy' 'Retinopathy'
+ 'History of Smoking' 'Age' 'BMI' 'DBP' 'ALT' 'AST' 'ALP' 'GGT' 'UA' 'TG'
+ 'HDL-C' 'LDL-C' 'Ca' 'FT3' 'FT4' 'PINP' 'β-CTX']
+track --- feature length :  20
+track --- model :  <class 'sklearn.svm._classes.SVC'>
+track --- calibration model :  <class 'sklearn.calibration.CalibratedClassifierCV'>
+================================
+track --- mean_acc :  0.8715596330275229
+track --- acc :  0.8716  calibration :  0.8991
+track ---1- mean_acc :  0.1284  calibration :  0.1009
+track --- precision:  0.9444  calibration :  0.918
+track --- recall:  0.8226  calibration :  0.9032
+track --- fscore:  0.8793  calibration :  0.9106
+track --- 1- fscore:  0.1207  calibration :  0.0894
+==============original================
+track --- auroc: 
+0.9512697323266988
+track --- conf_ma : 
+[[44  3]
+ [11 51]]
+track --- conf_ma_scaled : 
+[[0.93617021 0.06382979]
+ [0.17741935 0.82258065]]
+==============after calibration================
+track --- auroc : 
+0.9667124227865477
+track --- conf_ma : 
+[[42  5]
+ [ 6 56]]
+track --- conf_ma_scaled : 
+[[0.89361702 0.10638298]
+ [0.09677419 0.90322581]]
+======================================
+===============================DT=============================
+=============================
+['History of Hypertension' 'Nephropathy' 'Retinopathy'
+ 'History of Smoking' 'Age' 'BMI' 'DBP' 'ALT' 'AST' 'ALP' 'GGT' 'UA' 'TG'
+ 'HDL-C' 'LDL-C' 'Ca' 'FT3' 'FT4' 'PINP' 'β-CTX']
+track --- feature length :  20
+track --- model :  <class 'sklearn.tree._classes.DecisionTreeClassifier'>
+track --- calibration model :  <class 'sklearn.calibration.CalibratedClassifierCV'>
+================================
+track --- mean_acc :  0.8990825688073395
+track --- acc :  0.8991  calibration :  0.8716
+track ---1- mean_acc :  0.1009  calibration :  0.1284
+track --- precision:  0.9474  calibration :  0.9
+track --- recall:  0.871  calibration :  0.871
+track --- fscore:  0.9076  calibration :  0.8852
+track --- 1- fscore:  0.0924  calibration :  0.1148
+==============original================
+track --- auroc: 
+0.9066575154426906
+track --- conf_ma : 
+[[44  3]
+ [ 8 54]]
+track --- conf_ma_scaled : 
+[[0.93617021 0.06382979]
+ [0.12903226 0.87096774]]
+==============after calibration================
+track --- auroc : 
+0.9589910775566232
+track --- conf_ma : 
+[[41  6]
+ [ 8 54]]
+track --- conf_ma_scaled : 
+[[0.87234043 0.12765957]
+ [0.12903226 0.87096774]]
+======================================
+==============================END=============================

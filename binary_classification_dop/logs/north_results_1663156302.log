@@ -1,0 +1,272 @@
+tack----selection--population_list len:  32
+tack----selection--population_list len:  32
+tack----selection--population_list len:  64
+track---generation[1] best solution:
+[[0, 0.04761904761904767, 28, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  96
+track---generation[2] best solution:
+[[1, 0.055118110236220375, 21, 5.718659162898703], [2, 0.06451612903225812, 20, 5.076230052709177], [0, 0.04761904761904767, 28, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  128
+track---generation[3] best solution:
+[[1, 0.054263565891472854, 20, 7.328948424071657], [2, 0.06349206349206349, 19, 6.706735945466797], [0, 0.04761904761904767, 28, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  160
+track---generation[4] best solution:
+[[3, 0.06349206349206349, 17, 0.5444626271230624], [2, 0.05600000000000005, 19, 0.09612857525846637], [0, 0.04687500000000011, 21, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  192
+track---generation[5] best solution:
+[[3, 0.06250000000000011, 17, 0.7041290866899189], [2, 0.05600000000000005, 19, 0.09612857525846637], [0, 0.04687500000000011, 21, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  224
+track---generation[6] best solution:
+[[4, 0.08064516129032262, 11, 3.891745352021567], [2, 0.054263565891472854, 17, 2.029732018442832], [1, 0.04761904761904767, 18, 1.9762946398108043], [3, 0.06451612903225812, 16, 1.318532673927914], [0, 0.04687500000000011, 21, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  256
+track---generation[7] best solution:
+[[2, 0.05600000000000005, 15, 0.8144479371579441], [3, 0.06349206349206349, 14, 0.5444626271230624], [4, 0.08064516129032262, 11, 0.2557377702469309], [0, 0.04687500000000011, 18, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  288
+track---generation[8] best solution:
+[[1, 0.04761904761904767, 15, 1.9762946398108043], [2, 0.06349206349206349, 14, 0.5444626271230624], [3, 0.06349206349206349, 14, 0.5444626271230624], [4, 0.08064516129032262, 11, 0.2557377702469309], [0, 0.04687500000000011, 18, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  320
+track---generation[9] best solution:
+[[0, 0.04687500000000011, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  352
+track---generation[10] best solution:
+[[0, 0.04687500000000011, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  384
+track---generation[11] best solution:
+[[0, 0.04687500000000011, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  416
+track---generation[12] best solution:
+[[0, 0.04687500000000011, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  448
+track---generation[13] best solution:
+[[0, 0.04687500000000011, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  480
+track---generation[14] best solution:
+[[4, 0.05600000000000005, 11, 4.662734813312931], [2, 0.04687500000000011, 15, 1.6797745024012818], [3, 0.055118110236220375, 14, 1.1932106524227157], [1, 0.0461538461538461, 16, 0.8201943207596942], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  512
+track---generation[15] best solution:
+[[4, 0.05600000000000005, 11, 4.662734813312931], [2, 0.04687500000000011, 15, 1.6797745024012818], [3, 0.055118110236220375, 14, 1.1932106524227157], [1, 0.0461538461538461, 16, 0.8201943207596942], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  544
+track---generation[16] best solution:
+[[5, 0.05600000000000005, 11, 4.662734813312931], [2, 0.04687500000000011, 15, 1.6797745024012818], [3, 0.055118110236220375, 14, 1.1932106524227157], [4, 0.055118110236220375, 14, 1.1932106524227157], [1, 0.0461538461538461, 16, 0.8201943207596942], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  576
+track---generation[17] best solution:
+[[5, 0.05600000000000005, 11, 4.662734813312931], [2, 0.04687500000000011, 15, 1.6797745024012818], [3, 0.055118110236220375, 14, 1.1932106524227157], [4, 0.055118110236220375, 14, 1.1932106524227157], [1, 0.0461538461538461, 16, 0.8201943207596942], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  608
+track---generation[18] best solution:
+[[4, 0.05600000000000005, 11, 4.662734813312931], [5, 0.06451612903225812, 10, 4.012607008916616], [1, 0.0461538461538461, 15, 1.80898792566295], [2, 0.055118110236220375, 14, 1.1932106524227157], [3, 0.055118110236220375, 14, 1.1932106524227157], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  640
+track---generation[19] best solution:
+[[5, 0.05600000000000005, 11, 4.662734813312931], [6, 0.06451612903225812, 10, 4.012607008916616], [1, 0.0461538461538461, 15, 1.80898792566295], [2, 0.055118110236220375, 14, 1.1932106524227157], [3, 0.055118110236220375, 14, 1.1932106524227157], [4, 0.055118110236220375, 14, 1.1932106524227157], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  672
+track---generation[20] best solution:
+[[5, 0.05600000000000005, 11, 4.662734813312931], [6, 0.06451612903225812, 10, 4.012607008916616], [1, 0.0461538461538461, 15, 1.80898792566295], [2, 0.055118110236220375, 14, 1.1932106524227157], [3, 0.055118110236220375, 14, 1.1932106524227157], [4, 0.055118110236220375, 14, 1.1932106524227157], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  704
+track---generation[21] best solution:
+[[2, 0.05600000000000005, 11, 4.662734813312931], [1, 0.0461538461538461, 13, 4.178877713568143], [3, 0.06451612903225812, 10, 4.012607008916616], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  736
+track---generation[22] best solution:
+[[2, 0.05600000000000005, 11, 4.662734813312931], [1, 0.0461538461538461, 13, 4.178877713568143], [3, 0.06451612903225812, 10, 4.012607008916616], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  768
+track---generation[23] best solution:
+[[2, 0.05600000000000005, 11, 4.662734813312931], [1, 0.0461538461538461, 13, 4.178877713568143], [3, 0.06451612903225812, 10, 4.012607008916616], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  800
+track---generation[24] best solution:
+[[2, 0.05600000000000005, 11, 4.662734813312931], [1, 0.0461538461538461, 13, 4.178877713568143], [3, 0.06451612903225812, 10, 4.012607008916616], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  832
+track---generation[25] best solution:
+[[2, 0.05600000000000005, 11, 4.662734813312931], [1, 0.0461538461538461, 13, 4.178877713568143], [3, 0.06451612903225812, 10, 4.012607008916616], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  864
+track---generation[26] best solution:
+[[2, 0.05600000000000005, 11, 4.662734813312931], [1, 0.0461538461538461, 13, 4.178877713568143], [3, 0.06451612903225812, 10, 4.012607008916616], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  896
+track---generation[27] best solution:
+[[2, 0.05600000000000005, 11, 4.662734813312931], [1, 0.0461538461538461, 13, 4.178877713568143], [3, 0.06451612903225812, 10, 4.012607008916616], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  928
+track---generation[28] best solution:
+[[3, 0.05600000000000005, 11, 4.662734813312931], [1, 0.0461538461538461, 13, 4.178877713568143], [4, 0.06451612903225812, 10, 4.012607008916616], [2, 0.054263565891472854, 12, 3.7323010504558107], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  960
+track---generation[29] best solution:
+[[3, 0.05600000000000005, 11, 4.662734813312931], [1, 0.0461538461538461, 13, 4.178877713568143], [4, 0.06451612903225812, 10, 4.012607008916616], [2, 0.054263565891472854, 12, 3.7323010504558107], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  992
+track---generation[30] best solution:
+[[4, 0.06451612903225812, 9, 5.400664049337617], [3, 0.05600000000000005, 11, 4.662734813312931], [1, 0.0461538461538461, 13, 4.178877713568143], [2, 0.054263565891472854, 12, 3.7323010504558107], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1024
+track---generation[31] best solution:
+[[4, 0.06451612903225812, 9, 5.400664049337617], [3, 0.05600000000000005, 11, 4.662734813312931], [1, 0.0461538461538461, 13, 4.178877713568143], [2, 0.054263565891472854, 12, 3.7323010504558107], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1056
+track---generation[32] best solution:
+[[4, 0.06451612903225812, 9, 5.400664049337617], [3, 0.05600000000000005, 11, 4.662734813312931], [1, 0.0461538461538461, 13, 4.178877713568143], [2, 0.054263565891472854, 12, 3.7323010504558107], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1088
+track---generation[33] best solution:
+[[4, 0.06451612903225812, 9, 5.400664049337617], [3, 0.05600000000000005, 11, 4.662734813312931], [1, 0.0461538461538461, 13, 4.178877713568143], [2, 0.054263565891472854, 12, 3.7323010504558107], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1120
+track---generation[34] best solution:
+[[4, 0.06451612903225812, 9, 5.400664049337617], [3, 0.05600000000000005, 11, 4.662734813312931], [1, 0.0461538461538461, 13, 4.178877713568143], [2, 0.054263565891472854, 12, 3.7323010504558107], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1152
+track---generation[35] best solution:
+[[5, 0.06451612903225812, 9, 5.400664049337617], [4, 0.05600000000000005, 11, 4.662734813312931], [1, 0.0461538461538461, 13, 4.178877713568143], [2, 0.054263565891472854, 12, 3.7323010504558107], [3, 0.054263565891472854, 12, 3.7323010504558107], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1184
+track---generation[36] best solution:
+[[5, 0.06451612903225812, 9, 5.400664049337617], [4, 0.05600000000000005, 11, 4.662734813312931], [1, 0.0461538461538461, 13, 4.178877713568143], [2, 0.054263565891472854, 12, 3.7323010504558107], [3, 0.054263565891472854, 12, 3.7323010504558107], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1216
+track---generation[37] best solution:
+[[6, 0.06451612903225812, 9, 5.400664049337617], [5, 0.05600000000000005, 11, 4.662734813312931], [2, 0.0461538461538461, 13, 4.178877713568143], [3, 0.054263565891472854, 12, 3.7323010504558107], [4, 0.054263565891472854, 12, 3.7323010504558107], [1, 0.03937007874015741, 17, 0.9537596047468634], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1248
+track---generation[38] best solution:
+[[6, 0.06451612903225812, 9, 5.400664049337617], [5, 0.05600000000000005, 11, 4.662734813312931], [2, 0.0461538461538461, 13, 4.178877713568143], [3, 0.054263565891472854, 12, 3.7323010504558107], [4, 0.054263565891472854, 12, 3.7323010504558107], [1, 0.03937007874015741, 17, 0.9537596047468634], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1280
+track---generation[39] best solution:
+[[6, 0.06451612903225812, 9, 5.400664049337617], [5, 0.05600000000000005, 11, 4.662734813312931], [2, 0.0461538461538461, 13, 4.178877713568143], [3, 0.054263565891472854, 12, 3.7323010504558107], [4, 0.054263565891472854, 12, 3.7323010504558107], [1, 0.03937007874015741, 17, 0.9537596047468634], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1312
+track---generation[40] best solution:
+[[5, 0.05600000000000005, 10, 6.054685563815874], [6, 0.06451612903225812, 9, 5.400664049337617], [2, 0.0461538461538461, 13, 4.178877713568143], [3, 0.054263565891472854, 12, 3.7323010504558107], [4, 0.054263565891472854, 12, 3.7323010504558107], [1, 0.03937007874015741, 17, 0.9537596047468634], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1344
+track---generation[41] best solution:
+[[5, 0.05600000000000005, 10, 6.054685563815874], [6, 0.06451612903225812, 9, 5.400664049337617], [2, 0.0461538461538461, 13, 4.178877713568143], [3, 0.054263565891472854, 12, 3.7323010504558107], [4, 0.054263565891472854, 12, 3.7323010504558107], [1, 0.03937007874015741, 17, 0.9537596047468634], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1376
+track---generation[42] best solution:
+[[5, 0.05600000000000005, 10, 6.054685563815874], [6, 0.06451612903225812, 9, 5.400664049337617], [2, 0.0461538461538461, 13, 4.178877713568143], [3, 0.054263565891472854, 12, 3.7323010504558107], [4, 0.054263565891472854, 12, 3.7323010504558107], [1, 0.03937007874015741, 17, 0.9537596047468634], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1408
+track---generation[43] best solution:
+[[4, 0.054263565891472854, 10, 6.4710642778521965], [5, 0.06451612903225812, 9, 5.400664049337617], [3, 0.04687500000000011, 12, 5.355734907257011], [2, 0.0461538461538461, 13, 4.178877713568143], [1, 0.03937007874015741, 17, 0.9537596047468634], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1440
+track---generation[44] best solution:
+[[4, 0.054263565891472854, 10, 6.4710642778521965], [5, 0.06451612903225812, 9, 5.400664049337617], [3, 0.04687500000000011, 12, 5.355734907257011], [2, 0.0461538461538461, 13, 4.178877713568143], [1, 0.03937007874015741, 17, 0.9537596047468634], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1472
+track---generation[45] best solution:
+[[4, 0.054263565891472854, 10, 6.4710642778521965], [5, 0.06451612903225812, 9, 5.400664049337617], [3, 0.04687500000000011, 12, 5.355734907257011], [2, 0.0461538461538461, 13, 4.178877713568143], [1, 0.03937007874015741, 17, 0.9537596047468634], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1504
+track---generation[46] best solution:
+[[4, 0.054263565891472854, 10, 6.4710642778521965], [5, 0.06349206349206349, 9, 5.655134776402454], [3, 0.04687500000000011, 12, 5.355734907257011], [2, 0.0461538461538461, 13, 4.178877713568143], [1, 0.03937007874015741, 17, 0.9537596047468634], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1536
+track---generation[47] best solution:
+[[4, 0.054263565891472854, 10, 6.4710642778521965], [5, 0.06349206349206349, 9, 5.655134776402454], [3, 0.04687500000000011, 12, 5.355734907257011], [2, 0.0461538461538461, 13, 4.178877713568143], [1, 0.03937007874015741, 17, 0.9537596047468634], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1568
+track---generation[48] best solution:
+[[4, 0.054263565891472854, 10, 6.4710642778521965], [5, 0.06349206349206349, 9, 5.655134776402454], [3, 0.04687500000000011, 12, 5.355734907257011], [2, 0.0461538461538461, 13, 4.178877713568143], [1, 0.03937007874015741, 17, 0.9537596047468634], [0, 0.03125, 20, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1600
+track---generation[49] best solution:
+[[4, 0.054263565891472854, 9, 7.948330281928481], [3, 0.04687500000000011, 12, 5.355734907257011], [2, 0.0461538461538461, 13, 4.178877713568143], [1, 0.03937007874015741, 17, 0.9537596047468634], [0, 0.03125, 20, 0]]
+==================================
+track --- sort_result :  [[0.03125, 20], [0.03937007874015741, 17], [0.0461538461538461, 13], [0.04687500000000011, 12], [0.054263565891472854, 9], [0.15517241379310343, 8]]
+track --- Sort RS :  [[0.03937007874015741, 17, -1.1256819369329722], [0.0461538461538461, 13, -3.0991676823112826], [0.04687500000000011, 12, -3.4331634020878674], [0.054263565891472854, 9, -5.71865629190552], [0.15517241379310343, 8, -31.785471563370333]]
+track--selected best model:  [0.03125, 20]
+==================================
+front_0_num:  6
+track ========= 0 =========
+track ---0-- columns[features[index]] len:  8
+track ---0-- columns[features[index]] :  ['History of Smoking' 'History of Drinking' 'TC' 'TG' 'Ca' 'P' 'FT4' 'VD3']
+track ---0-- top_object:  [0.15517241379310343, 8]
+==============⚠️ NOTICE! THIS IS THE BEST MODEL!==============
+track ---best_model_selected:  [0.03125, 20]
+track ========= 1 =========
+track ---1-- columns[features[index]] len:  20
+track ---1-- columns[features[index]] :  ['History of Hypertension' 'Nephropathy' 'Retinopathy'
+ 'History of Smoking' 'Age' 'BMI' 'DBP' 'ALT' 'AST' 'ALP' 'GGT' 'UA' 'TG'
+ 'HDL-C' 'LDL-C' 'Ca' 'FT3' 'FT4' 'PINP' 'β-CTX']
+track ---1-- top_object:  [0.03125, 20]
+track ========= 2 =========
+track ---2-- columns[features[index]] len:  13
+track ---2-- columns[features[index]] :  ['Nephropathy' 'Height' 'Weight' 'SBP' 'AST' 'GGT' 'UA' 'TC' 'LDL-C' 'Ca'
+ 'P' 'FT3' 'PINP']
+track ---2-- top_object:  [0.0461538461538461, 13]
+track ========= 3 =========
+track ---3-- columns[features[index]] len:  17
+track ---3-- columns[features[index]] :  ['History of Hypertension' 'Nephropathy' 'Retinopathy' 'Neuropathy'
+ 'History of Smoking' 'Weight' 'BMI' 'SBP' 'FBG' 'HbA1c' 'ALT' 'AST' 'TC'
+ 'HDL-C' 'FT3' 'FT4' 'VD3']
+track ---3-- top_object:  [0.03937007874015741, 17]
+track ========= 4 =========
+track ---4-- columns[features[index]] len:  12
+track ---4-- columns[features[index]] :  ['Macrovascular Complications' 'History of Hypertension' 'Weight' 'FBG'
+ 'HbA1c' 'ALT' 'AST' 'ALP' 'UA' 'HDL-C' 'LDL-C' 'Ca']
+track ---4-- top_object:  [0.04687500000000011, 12]
+track ========= 5 =========
+track ---5-- columns[features[index]] len:  9
+track ---5-- columns[features[index]] :  ['History of Hypertension' 'ALT' 'AST' 'UA' 'TG' 'LDL-C' 'FT3' 'FT4'
+ 'PINP']
+track ---5-- top_object:  [0.054263565891472854, 9]
+================================END=============================
+================================Model review=============================
+=============================
+['History of Hypertension' 'Nephropathy' 'Retinopathy'
+ 'History of Smoking' 'Age' 'BMI' 'DBP' 'ALT' 'AST' 'ALP' 'GGT' 'UA' 'TG'
+ 'HDL-C' 'LDL-C' 'Ca' 'FT3' 'FT4' 'PINP' 'β-CTX']
+track --- feature length :  20
+track --- model :  <class 'sklearn.ensemble._forest.RandomForestClassifier'>
+track --- calibration model :  <class 'sklearn.calibration.CalibratedClassifierCV'>
+================================
+track --- mean_acc :  0.963302752293578
+track --- acc :  0.9633  calibration :  0.9358
+track ---1- mean_acc :  0.0367  calibration :  0.0642
+track --- precision:  0.9394  calibration :  0.9231
+track --- recall:  1.0  calibration :  0.9677
+track --- fscore:  0.9688  calibration :  0.9449
+track --- 1- fscore:  0.0312  calibration :  0.0551
+==============original================
+track --- auroc: 
+0.959334248455731
+track --- conf_ma : 
+[[43  4]
+ [ 0 62]]
+track --- conf_ma_scaled : 
+[[0.91489362 0.08510638]
+ [0.         1.        ]]
+==============after calibration================
+track --- auroc : 
+0.9708304735758407
+track --- conf_ma : 
+[[42  5]
+ [ 2 60]]
+track --- conf_ma_scaled : 
+[[0.89361702 0.10638298]
+ [0.03225806 0.96774194]]
+======================================

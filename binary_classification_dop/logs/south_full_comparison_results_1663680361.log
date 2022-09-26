@@ -1,0 +1,186 @@
+================================South Full Model Comparison =============================
+=============================
+['Gender' 'Macrovascular Complications' 'History of Hypertension'
+ 'Nephropathy' 'Retinopathy' 'Neuropathy' 'History of Smoking'
+ 'History of Drinking' 'Age' 'Height' 'Weight' 'BMI' 'SBP' 'DBP'
+ 'Heart Rate' 'FBG' 'HbA1c' 'ALT' 'AST' 'ALP' 'GGT' 'UA' 'TC' 'TG' 'HDL-C'
+ 'LDL-C' 'Ca' 'P' 'FT3' 'FT4' 'VD3' 'N-MID' 'PINP' 'β-CTX']
+track --- feature length :  34
+track --- model :  <class 'sklearn.ensemble._forest.RandomForestClassifier'>
+track --- calibration model :  <class 'sklearn.calibration.CalibratedClassifierCV'>
+================================
+track --- mean_acc :  0.8846153846153846
+track --- acc :  0.8846  calibration :  0.8333
+track ---1- mean_acc :  0.1154  calibration :  0.1667
+track --- precision:  0.9375  calibration :  0.8333
+track --- recall:  0.8108  calibration :  0.8108
+track --- fscore:  0.8696  calibration :  0.8219
+track --- 1- fscore:  0.1304  calibration :  0.1781
+==============original================
+track --- auroc: 
+0.9294660514172708
+track --- conf_ma : 
+[[39  2]
+ [ 7 30]]
+track --- conf_ma_scaled : 
+[[0.95121951 0.04878049]
+ [0.18918919 0.81081081]]
+==============after calibration================
+track --- auroc : 
+0.9208965062623599
+track --- conf_ma : 
+[[35  6]
+ [ 7 30]]
+track --- conf_ma_scaled : 
+[[0.85365854 0.14634146]
+ [0.18918919 0.81081081]]
+======================================
+===============================Logistic regression=============================
+=============================
+['Gender' 'Macrovascular Complications' 'History of Hypertension'
+ 'Nephropathy' 'Retinopathy' 'Neuropathy' 'History of Smoking'
+ 'History of Drinking' 'Age' 'Height' 'Weight' 'BMI' 'SBP' 'DBP'
+ 'Heart Rate' 'FBG' 'HbA1c' 'ALT' 'AST' 'ALP' 'GGT' 'UA' 'TC' 'TG' 'HDL-C'
+ 'LDL-C' 'Ca' 'P' 'FT3' 'FT4' 'VD3' 'N-MID' 'PINP' 'β-CTX']
+track --- feature length :  34
+track --- model :  <class 'sklearn.linear_model._logistic.LogisticRegression'>
+track --- calibration model :  <class 'sklearn.calibration.CalibratedClassifierCV'>
+================================
+track --- mean_acc :  0.8333333333333334
+track --- acc :  0.8333  calibration :  0.8846
+track ---1- mean_acc :  0.1667  calibration :  0.1154
+track --- precision:  0.875  calibration :  0.8889
+track --- recall:  0.7568  calibration :  0.8649
+track --- fscore:  0.8116  calibration :  0.8767
+track --- 1- fscore:  0.1884  calibration :  0.1233
+==============original================
+track --- auroc: 
+0.8846407382992749
+track --- conf_ma : 
+[[37  4]
+ [ 9 28]]
+track --- conf_ma_scaled : 
+[[0.90243902 0.09756098]
+ [0.24324324 0.75675676]]
+==============after calibration================
+track --- auroc : 
+0.92089650626236
+track --- conf_ma : 
+[[37  4]
+ [ 5 32]]
+track --- conf_ma_scaled : 
+[[0.90243902 0.09756098]
+ [0.13513514 0.86486486]]
+======================================
+===============================KNN=============================
+=============================
+['Gender' 'Macrovascular Complications' 'History of Hypertension'
+ 'Nephropathy' 'Retinopathy' 'Neuropathy' 'History of Smoking'
+ 'History of Drinking' 'Age' 'Height' 'Weight' 'BMI' 'SBP' 'DBP'
+ 'Heart Rate' 'FBG' 'HbA1c' 'ALT' 'AST' 'ALP' 'GGT' 'UA' 'TC' 'TG' 'HDL-C'
+ 'LDL-C' 'Ca' 'P' 'FT3' 'FT4' 'VD3' 'N-MID' 'PINP' 'β-CTX']
+track --- feature length :  34
+track --- model :  <class 'sklearn.neighbors._classification.KNeighborsClassifier'>
+track --- calibration model :  <class 'sklearn.calibration.CalibratedClassifierCV'>
+================================
+track --- mean_acc :  0.7948717948717948
+track --- acc :  0.7949  calibration :  0.7949
+track ---1- mean_acc :  0.2051  calibration :  0.2051
+track --- precision:  0.8  calibration :  0.7561
+track --- recall:  0.7568  calibration :  0.8378
+track --- fscore:  0.7778  calibration :  0.7949
+track --- 1- fscore:  0.2222  calibration :  0.2051
+==============original================
+track --- auroc: 
+0.8368490441661173
+track --- conf_ma : 
+[[34  7]
+ [ 9 28]]
+track --- conf_ma_scaled : 
+[[0.82926829 0.17073171]
+ [0.24324324 0.75675676]]
+==============after calibration================
+track --- auroc : 
+0.8694792353328938
+track --- conf_ma : 
+[[31 10]
+ [ 6 31]]
+track --- conf_ma_scaled : 
+[[0.75609756 0.24390244]
+ [0.16216216 0.83783784]]
+======================================
+===============================SVM =============================
+=============================
+['Gender' 'Macrovascular Complications' 'History of Hypertension'
+ 'Nephropathy' 'Retinopathy' 'Neuropathy' 'History of Smoking'
+ 'History of Drinking' 'Age' 'Height' 'Weight' 'BMI' 'SBP' 'DBP'
+ 'Heart Rate' 'FBG' 'HbA1c' 'ALT' 'AST' 'ALP' 'GGT' 'UA' 'TC' 'TG' 'HDL-C'
+ 'LDL-C' 'Ca' 'P' 'FT3' 'FT4' 'VD3' 'N-MID' 'PINP' 'β-CTX']
+track --- feature length :  34
+track --- model :  <class 'sklearn.svm._classes.SVC'>
+track --- calibration model :  <class 'sklearn.calibration.CalibratedClassifierCV'>
+================================
+track --- mean_acc :  0.8205128205128205
+track --- acc :  0.8205  calibration :  0.8333
+track ---1- mean_acc :  0.1795  calibration :  0.1667
+track --- precision:  0.871  calibration :  0.8333
+track --- recall:  0.7297  calibration :  0.8108
+track --- fscore:  0.7941  calibration :  0.8219
+track --- 1- fscore:  0.2059  calibration :  0.1781
+==============original================
+track --- auroc: 
+0.9044166117336849
+track --- conf_ma : 
+[[37  4]
+ [10 27]]
+track --- conf_ma_scaled : 
+[[0.90243902 0.09756098]
+ [0.27027027 0.72972973]]
+==============after calibration================
+track --- auroc : 
+0.897165458141068
+track --- conf_ma : 
+[[35  6]
+ [ 7 30]]
+track --- conf_ma_scaled : 
+[[0.85365854 0.14634146]
+ [0.18918919 0.81081081]]
+======================================
+===============================DT=============================
+=============================
+['Gender' 'Macrovascular Complications' 'History of Hypertension'
+ 'Nephropathy' 'Retinopathy' 'Neuropathy' 'History of Smoking'
+ 'History of Drinking' 'Age' 'Height' 'Weight' 'BMI' 'SBP' 'DBP'
+ 'Heart Rate' 'FBG' 'HbA1c' 'ALT' 'AST' 'ALP' 'GGT' 'UA' 'TC' 'TG' 'HDL-C'
+ 'LDL-C' 'Ca' 'P' 'FT3' 'FT4' 'VD3' 'N-MID' 'PINP' 'β-CTX']
+track --- feature length :  34
+track --- model :  <class 'sklearn.tree._classes.DecisionTreeClassifier'>
+track --- calibration model :  <class 'sklearn.calibration.CalibratedClassifierCV'>
+================================
+track --- mean_acc :  0.7692307692307693
+track --- acc :  0.7692  calibration :  0.8077
+track ---1- mean_acc :  0.2308  calibration :  0.1923
+track --- precision:  0.7568  calibration :  0.8235
+track --- recall:  0.7568  calibration :  0.7568
+track --- fscore:  0.7568  calibration :  0.7887
+track --- 1- fscore:  0.2432  calibration :  0.2113
+==============original================
+track --- auroc: 
+0.7867501647989453
+track --- conf_ma : 
+[[32  9]
+ [ 9 28]]
+track --- conf_ma_scaled : 
+[[0.7804878  0.2195122 ]
+ [0.24324324 0.75675676]]
+==============after calibration================
+track --- auroc : 
+0.8378378378378379
+track --- conf_ma : 
+[[35  6]
+ [ 9 28]]
+track --- conf_ma_scaled : 
+[[0.85365854 0.14634146]
+ [0.24324324 0.75675676]]
+======================================
+==============================END=============================

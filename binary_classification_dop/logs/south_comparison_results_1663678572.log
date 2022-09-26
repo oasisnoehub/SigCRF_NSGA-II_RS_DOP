@@ -1,0 +1,171 @@
+================================South Full Model review=============================
+=============================
+['Retinopathy' 'Neuropathy' 'History of Smoking' 'Age' 'Weight' 'SBP'
+ 'DBP' 'ALT' 'AST' 'HDL-C' 'LDL-C' 'Ca' 'P' 'FT4' 'PINP']
+track --- feature length :  15
+track --- model :  <class 'sklearn.ensemble._forest.RandomForestClassifier'>
+track --- calibration model :  <class 'sklearn.calibration.CalibratedClassifierCV'>
+================================
+track --- mean_acc :  0.9358974358974359
+track --- acc :  0.9359  calibration :  0.859
+track ---1- mean_acc :  0.0641  calibration :  0.141
+track --- precision:  0.9444  calibration :  0.8611
+track --- recall:  0.9189  calibration :  0.8378
+track --- fscore:  0.9315  calibration :  0.8493
+track --- 1- fscore:  0.0685  calibration :  0.1507
+==============original================
+track --- auroc: 
+0.9459459459459459
+track --- conf_ma : 
+[[39  2]
+ [ 3 34]]
+track --- conf_ma_scaled : 
+[[0.95121951 0.04878049]
+ [0.08108108 0.91891892]]
+==============after calibration================
+track --- auroc : 
+0.9162821357943309
+track --- conf_ma : 
+[[36  5]
+ [ 6 31]]
+track --- conf_ma_scaled : 
+[[0.87804878 0.12195122]
+ [0.16216216 0.83783784]]
+======================================
+===============================Logistic regression=============================
+=============================
+['Retinopathy' 'Neuropathy' 'History of Smoking' 'Age' 'Weight' 'SBP'
+ 'DBP' 'ALT' 'AST' 'HDL-C' 'LDL-C' 'Ca' 'P' 'FT4' 'PINP']
+track --- feature length :  15
+track --- model :  <class 'sklearn.linear_model._logistic.LogisticRegression'>
+track --- calibration model :  <class 'sklearn.calibration.CalibratedClassifierCV'>
+================================
+track --- mean_acc :  0.8205128205128205
+track --- acc :  0.8205  calibration :  0.8333
+track ---1- mean_acc :  0.1795  calibration :  0.1667
+track --- precision:  0.871  calibration :  0.8158
+track --- recall:  0.7297  calibration :  0.8378
+track --- fscore:  0.7941  calibration :  0.8267
+track --- 1- fscore:  0.2059  calibration :  0.1733
+==============original================
+track --- auroc: 
+0.8859591298615689
+track --- conf_ma : 
+[[37  4]
+ [10 27]]
+track --- conf_ma_scaled : 
+[[0.90243902 0.09756098]
+ [0.27027027 0.72972973]]
+==============after calibration================
+track --- auroc : 
+0.9235332893869479
+track --- conf_ma : 
+[[34  7]
+ [ 6 31]]
+track --- conf_ma_scaled : 
+[[0.82926829 0.17073171]
+ [0.16216216 0.83783784]]
+======================================
+===============================KNN=============================
+=============================
+['Retinopathy' 'Neuropathy' 'History of Smoking' 'Age' 'Weight' 'SBP'
+ 'DBP' 'ALT' 'AST' 'HDL-C' 'LDL-C' 'Ca' 'P' 'FT4' 'PINP']
+track --- feature length :  15
+track --- model :  <class 'sklearn.neighbors._classification.KNeighborsClassifier'>
+track --- calibration model :  <class 'sklearn.calibration.CalibratedClassifierCV'>
+================================
+track --- mean_acc :  0.7051282051282052
+track --- acc :  0.7051  calibration :  0.7692
+track ---1- mean_acc :  0.2949  calibration :  0.2308
+track --- precision:  0.75  calibration :  0.7714
+track --- recall:  0.5676  calibration :  0.7297
+track --- fscore:  0.6462  calibration :  0.75
+track --- 1- fscore:  0.3538  calibration :  0.25
+==============original================
+track --- auroc: 
+0.7412656558998022
+track --- conf_ma : 
+[[34  7]
+ [16 21]]
+track --- conf_ma_scaled : 
+[[0.82926829 0.17073171]
+ [0.43243243 0.56756757]]
+==============after calibration================
+track --- auroc : 
+0.8401450230718523
+track --- conf_ma : 
+[[33  8]
+ [10 27]]
+track --- conf_ma_scaled : 
+[[0.80487805 0.19512195]
+ [0.27027027 0.72972973]]
+======================================
+===============================SVM =============================
+=============================
+['Retinopathy' 'Neuropathy' 'History of Smoking' 'Age' 'Weight' 'SBP'
+ 'DBP' 'ALT' 'AST' 'HDL-C' 'LDL-C' 'Ca' 'P' 'FT4' 'PINP']
+track --- feature length :  15
+track --- model :  <class 'sklearn.svm._classes.SVC'>
+track --- calibration model :  <class 'sklearn.calibration.CalibratedClassifierCV'>
+================================
+track --- mean_acc :  0.8333333333333334
+track --- acc :  0.8333  calibration :  0.8333
+track ---1- mean_acc :  0.1667  calibration :  0.1667
+track --- precision:  0.875  calibration :  0.8333
+track --- recall:  0.7568  calibration :  0.8108
+track --- fscore:  0.8116  calibration :  0.8219
+track --- 1- fscore:  0.1884  calibration :  0.1781
+==============original================
+track --- auroc: 
+0.8602504943968359
+track --- conf_ma : 
+[[37  4]
+ [ 9 28]]
+track --- conf_ma_scaled : 
+[[0.90243902 0.09756098]
+ [0.24324324 0.75675676]]
+==============after calibration================
+track --- auroc : 
+0.8925510876730389
+track --- conf_ma : 
+[[35  6]
+ [ 7 30]]
+track --- conf_ma_scaled : 
+[[0.85365854 0.14634146]
+ [0.18918919 0.81081081]]
+======================================
+===============================DT=============================
+=============================
+['Retinopathy' 'Neuropathy' 'History of Smoking' 'Age' 'Weight' 'SBP'
+ 'DBP' 'ALT' 'AST' 'HDL-C' 'LDL-C' 'Ca' 'P' 'FT4' 'PINP']
+track --- feature length :  15
+track --- model :  <class 'sklearn.tree._classes.DecisionTreeClassifier'>
+track --- calibration model :  <class 'sklearn.calibration.CalibratedClassifierCV'>
+================================
+track --- mean_acc :  0.7307692307692307
+track --- acc :  0.7308  calibration :  0.7308
+track ---1- mean_acc :  0.2692  calibration :  0.2692
+track --- precision:  0.75  calibration :  0.7222
+track --- recall:  0.6486  calibration :  0.7027
+track --- fscore:  0.6957  calibration :  0.7123
+track --- 1- fscore:  0.3043  calibration :  0.2877
+==============original================
+track --- auroc: 
+0.7442320369149638
+track --- conf_ma : 
+[[33  8]
+ [13 24]]
+track --- conf_ma_scaled : 
+[[0.80487805 0.19512195]
+ [0.35135135 0.64864865]]
+==============after calibration================
+track --- auroc : 
+0.8266315095583389
+track --- conf_ma : 
+[[31 10]
+ [11 26]]
+track --- conf_ma_scaled : 
+[[0.75609756 0.24390244]
+ [0.2972973  0.7027027 ]]
+======================================
+==============================END=============================

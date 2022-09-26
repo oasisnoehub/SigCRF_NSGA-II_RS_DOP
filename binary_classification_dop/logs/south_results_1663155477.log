@@ -1,0 +1,274 @@
+tack----selection--population_list len:  32
+tack----selection--population_list len:  32
+tack----selection--population_list len:  64
+track---generation[1] best solution:
+[[0, 0.09859154929577463, 28, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  96
+track---generation[2] best solution:
+[[2, 0.12328767123287676, 23, 0.05444763966879334], [0, 0.09859154929577463, 28, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  128
+track---generation[3] best solution:
+[[2, 0.11428571428571421, 22, 2.783786953678738], [3, 0.13043478260869568, 20, 1.7922248236447207], [0, 0.09859154929577463, 28, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  160
+track---generation[4] best solution:
+[[2, 0.12328767123287676, 17, 7.530230811285962], [1, 0.10810810810810811, 20, 6.697896617932407], [0, 0.09859154929577463, 28, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  192
+track---generation[5] best solution:
+[[1, 0.09859154929577463, 19, 2.8686187173866955], [2, 0.12328767123287676, 15, 2.4088445662814393], [0, 0.08333333333333326, 25, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  224
+track---generation[6] best solution:
+[[1, 0.09589041095890416, 19, 3.3942359677585583], [2, 0.12328767123287676, 15, 2.4088445662814393], [0, 0.08333333333333326, 25, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  256
+track---generation[7] best solution:
+[[1, 0.09589041095890416, 19, 3.3942359677585583], [3, 0.1466666666666666, 10, 3.234686842613072], [2, 0.12328767123287676, 15, 2.4088445662814393], [0, 0.08333333333333326, 25, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  288
+track---generation[8] best solution:
+[[1, 0.09589041095890416, 19, 3.3942359677585583], [3, 0.1466666666666666, 10, 3.234686842613072], [2, 0.12328767123287676, 15, 2.4088445662814393], [0, 0.08333333333333326, 25, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  320
+track---generation[9] best solution:
+[[1, 0.09589041095890416, 19, 3.3942359677585583], [4, 0.1466666666666666, 10, 3.234686842613072], [2, 0.12328767123287676, 15, 2.4088445662814393], [3, 0.1351351351351351, 14, 0.794722397004264], [0, 0.08333333333333326, 25, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  352
+track---generation[10] best solution:
+[[1, 0.09589041095890416, 19, 3.3942359677585583], [4, 0.1466666666666666, 10, 3.234686842613072], [2, 0.12328767123287676, 15, 2.4088445662814393], [3, 0.1351351351351351, 14, 0.794722397004264], [0, 0.08333333333333326, 25, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  384
+track---generation[11] best solution:
+[[1, 0.09589041095890416, 19, 3.3942359677585583], [4, 0.1466666666666666, 10, 3.234686842613072], [2, 0.12328767123287676, 15, 2.4088445662814393], [3, 0.1351351351351351, 14, 0.794722397004264], [0, 0.08333333333333326, 25, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  416
+track---generation[12] best solution:
+[[1, 0.09589041095890416, 19, 3.3942359677585583], [4, 0.1466666666666666, 10, 3.234686842613072], [2, 0.12328767123287676, 15, 2.4088445662814393], [3, 0.1351351351351351, 14, 0.794722397004264], [0, 0.08333333333333326, 25, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  448
+track---generation[13] best solution:
+[[1, 0.09589041095890416, 19, 3.3942359677585583], [6, 0.1466666666666666, 10, 3.234686842613072], [4, 0.12328767123287676, 15, 2.4088445662814393], [2, 0.11111111111111105, 18, 1.5018188912132129], [3, 0.11764705882352944, 17, 1.2494022106421423], [5, 0.1351351351351351, 14, 0.794722397004264], [0, 0.08333333333333326, 25, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  480
+track---generation[14] best solution:
+[[1, 0.09589041095890416, 19, 3.3942359677585583], [6, 0.1466666666666666, 10, 3.234686842613072], [4, 0.12328767123287676, 15, 2.4088445662814393], [2, 0.11111111111111105, 18, 1.5018188912132129], [3, 0.11764705882352944, 17, 1.2494022106421423], [5, 0.1351351351351351, 14, 0.794722397004264], [0, 0.08333333333333326, 25, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  512
+track---generation[15] best solution:
+[[1, 0.09589041095890416, 19, 3.3942359677585583], [7, 0.1466666666666666, 10, 3.234686842613072], [4, 0.12328767123287676, 15, 2.4088445662814393], [2, 0.11111111111111105, 18, 1.5018188912132129], [3, 0.11764705882352944, 17, 1.2494022106421423], [5, 0.1351351351351351, 14, 0.794722397004264], [6, 0.1351351351351351, 14, 0.794722397004264], [0, 0.08333333333333326, 25, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  544
+track---generation[16] best solution:
+[[1, 0.09589041095890416, 19, 3.3942359677585583], [7, 0.1466666666666666, 10, 3.234686842613072], [4, 0.12328767123287676, 15, 2.4088445662814393], [2, 0.11111111111111105, 18, 1.5018188912132129], [3, 0.11764705882352944, 17, 1.2494022106421423], [5, 0.1351351351351351, 14, 0.794722397004264], [6, 0.1351351351351351, 14, 0.794722397004264], [0, 0.08333333333333326, 25, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  576
+track---generation[17] best solution:
+[[0, 0.08108108108108103, 16, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  608
+track---generation[18] best solution:
+[[0, 0.08108108108108103, 16, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  640
+track---generation[19] best solution:
+[[0, 0.08108108108108103, 16, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  672
+track---generation[20] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  704
+track---generation[21] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  736
+track---generation[22] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  768
+track---generation[23] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  800
+track---generation[24] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  832
+track---generation[25] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  864
+track---generation[26] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  896
+track---generation[27] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  928
+track---generation[28] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  960
+track---generation[29] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  992
+track---generation[30] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1024
+track---generation[31] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1056
+track---generation[32] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1088
+track---generation[33] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1120
+track---generation[34] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1152
+track---generation[35] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1184
+track---generation[36] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1216
+track---generation[37] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1248
+track---generation[38] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1280
+track---generation[39] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1312
+track---generation[40] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1344
+track---generation[41] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1376
+track---generation[42] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1408
+track---generation[43] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1440
+track---generation[44] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1472
+track---generation[45] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1504
+track---generation[46] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1536
+track---generation[47] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1568
+track---generation[48] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+tack----selection--population_list len:  32
+tack----selection--population_list len:  1600
+track---generation[49] best solution:
+[[0, 0.06849315068493156, 15, 0]]
+==================================
+track --- sort_result :  [[0.06849315068493156, 15], [0.09589041095890416, 14], [0.09589041095890416, 14], [0.09859154929577463, 12], [0.1351351351351351, 10], [0.1428571428571429, 9], [0.21739130434782616, 8]]
+track --- Sort RS :  [[0.09589041095890416, 14, -1.8990333713971101], [0.09589041095890416, 14, -1.8990333713971101], [0.09859154929577463, 12, -4.172524027295049], [0.1351351351351351, 10, -11.940640668680096], [0.1428571428571429, 9, -14.470564709217593], [0.21739130434782616, 8, -30.962500620605066]]
+track--selected best model:  [0.06849315068493156, 15]
+==================================
+front_0_num:  7
+track ========= 0 =========
+track ---0-- columns[features[index]] len:  8
+track ---0-- columns[features[index]] :  ['Retinopathy' 'Age' 'BMI' 'SBP' 'DBP' 'Heart Rate' 'ALT' 'FT4']
+track ---0-- top_object:  [0.21739130434782616, 8]
+track ========= 1 =========
+track ---1-- columns[features[index]] len:  14
+track ---1-- columns[features[index]] :  ['Macrovascular Complications' 'Nephropathy' 'Retinopathy' 'Neuropathy'
+ 'Age' 'BMI' 'GGT' 'UA' 'TG' 'LDL-C' 'FT4' 'N-MID' 'PINP' 'β-CTX']
+track ---1-- top_object:  [0.09589041095890416, 14]
+==============⚠️ NOTICE! THIS IS THE BEST MODEL!==============
+track ---best_model_selected:  [0.06849315068493156, 15]
+track ========= 2 =========
+track ---2-- columns[features[index]] len:  15
+track ---2-- columns[features[index]] :  ['Retinopathy' 'Neuropathy' 'History of Smoking' 'Age' 'Weight' 'SBP'
+ 'DBP' 'ALT' 'AST' 'HDL-C' 'LDL-C' 'Ca' 'P' 'FT4' 'PINP']
+track ---2-- top_object:  [0.06849315068493156, 15]
+track ========= 3 =========
+track ---3-- columns[features[index]] len:  14
+track ---3-- columns[features[index]] :  ['Macrovascular Complications' 'Retinopathy' 'History of Drinking' 'Age'
+ 'Weight' 'BMI' 'SBP' 'Heart Rate' 'FBG' 'UA' 'HDL-C' 'P' 'VD3' 'β-CTX']
+track ---3-- top_object:  [0.09589041095890416, 14]
+track ========= 4 =========
+track ---4-- columns[features[index]] len:  10
+track ---4-- columns[features[index]] :  ['Macrovascular Complications' 'History of Hypertension' 'Neuropathy'
+ 'History of Drinking' 'Age' 'Weight' 'BMI' 'UA' 'FT4' 'PINP']
+track ---4-- top_object:  [0.1351351351351351, 10]
+track ========= 5 =========
+track ---5-- columns[features[index]] len:  12
+track ---5-- columns[features[index]] :  ['Gender' 'Retinopathy' 'Age' 'Height' 'BMI' 'FBG' 'HbA1c' 'ALP' 'P' 'VD3'
+ 'PINP' 'β-CTX']
+track ---5-- top_object:  [0.09859154929577463, 12]
+track ========= 6 =========
+track ---6-- columns[features[index]] len:  9
+track ---6-- columns[features[index]] :  ['History of Smoking' 'Height' 'HbA1c' 'ALT' 'TG' 'HDL-C' 'FT4' 'VD3'
+ 'N-MID']
+track ---6-- top_object:  [0.1428571428571429, 9]
+================================END=============================
+================================Model review=============================
+=============================
+['Retinopathy' 'Neuropathy' 'History of Smoking' 'Age' 'Weight' 'SBP'
+ 'DBP' 'ALT' 'AST' 'HDL-C' 'LDL-C' 'Ca' 'P' 'FT4' 'PINP']
+track --- feature length :  15
+track --- model :  <class 'sklearn.ensemble._forest.RandomForestClassifier'>
+track --- calibration model :  <class 'sklearn.calibration.CalibratedClassifierCV'>
+================================
+track --- mean_acc :  0.9358974358974359
+track --- acc :  0.9359  calibration :  0.859
+track ---1- mean_acc :  0.0641  calibration :  0.141
+track --- precision:  0.9444  calibration :  0.8611
+track --- recall:  0.9189  calibration :  0.8378
+track --- fscore:  0.9315  calibration :  0.8493
+track --- 1- fscore:  0.0685  calibration :  0.1507
+==============original================
+track --- auroc: 
+0.9459459459459459
+track --- conf_ma : 
+[[39  2]
+ [ 3 34]]
+track --- conf_ma_scaled : 
+[[0.95121951 0.04878049]
+ [0.08108108 0.91891892]]
+==============after calibration================
+track --- auroc : 
+0.9162821357943309
+track --- conf_ma : 
+[[36  5]
+ [ 6 31]]
+track --- conf_ma_scaled : 
+[[0.87804878 0.12195122]
+ [0.16216216 0.83783784]]
+======================================

@@ -1,0 +1,45 @@
+================================Full Model review=============================
+===============================Random Forest=============================
+track---y_test shape-----: (279, 3)
+Log-loss of
+ * uncalibrated classifier: 0.626
+ * calibrated classifier: 0.591
+=============================
+['Gender' 'Macrovascular Complications' 'History of Hypertension'
+ 'Nephropathy' 'Retinopathy' 'Neuropathy' 'Age' 'Height' 'Weight' 'BMI'
+ 'SBP' 'DBP' 'Heart Rate' 'FBG' 'HbA1c' 'ALT' 'AST' 'UA' 'TC' 'TG' 'HDL-C'
+ 'LDL-C' 'Ca' 'P' 'FT4' 'β-CTX']
+track --- feature length :  26
+track --- model :  <class 'sklearn.ensemble._forest.RandomForestClassifier'>
+track --- calibration model :  <class 'sklearn.calibration.CalibratedClassifierCV'>
+================================
+track --- mean_acc :  0.7311827956989247
+track --- acc :  0.7312  calibration :  0.8029
+track ---1- mean_acc :  0.2688  calibration :  0.1971
+track --- precision:  0.731  calibration :  0.8042
+track --- recall:  0.732  calibration :  0.8031
+track --- fscore:  0.7304  calibration :  0.8016
+track --- 1- fscore:  0.2696  calibration :  0.1984
+==============original================
+track --- auroc: 
+[[0, 0.8292454967712699], [1, 0.75149511213341], [2, 0.8161292241789625], ['micro', 0.7983870967741935]]
+track --- conf_ma : 
+[[74 14  9]
+ [13 61 20]
+ [ 6 13 69]]
+track --- conf_ma_scaled : 
+[[0.76 0.14 0.09]
+ [0.14 0.65 0.21]
+ [0.07 0.15 0.78]]
+==============after calibration================
+track --- auroc : 
+[[0, 0.8701427438540841], [1, 0.8185451408855665], [2, 0.868098524512137], ['micro', 0.8521505376344086]]
+track --- conf_ma : 
+[[83  7  7]
+ [14 67 13]
+ [ 7  7 74]]
+track --- conf_ma_scaled : 
+[[0.86 0.07 0.07]
+ [0.15 0.71 0.14]
+ [0.08 0.08 0.84]]
+======================================
