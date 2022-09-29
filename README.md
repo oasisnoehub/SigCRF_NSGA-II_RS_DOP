@@ -1,2 +1,2 @@
 # SigCRF_NSGA-II_RS_DOP
-A Hybrid Multi-Objective Optimization Approach (SigCRF-NSGA-II-RS) for Pre-diagnosing Osteoporosis among Diabetic Patients: from Binary to Three Classification 
+A hybrid multi-Objective optimization approach for pre-diagnosing osteoporosis among diabetic patients: from binary to ternary classifications
